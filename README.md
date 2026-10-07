@@ -1,19 +1,24 @@
 # Hi, I'm David Qiu
 
-UC San Diego undergraduate interested in probability, data analysis, and company research. My projects connect scientific time series, statistical reasoning, and reproducible analysis.
+UC San Diego physics undergraduate interested in probability, quantitative research, data analysis, and company research. I like projects where messy real-world data has to be validated, modeled, and turned into a conclusion that can actually be checked.
 
 ## Selected projects
 
 | Project | Focus | Tools |
 | --- | --- | --- |
-| [Retail Fundamentals Research](https://github.com/daawiidq/retail-fundamentals) | Annual-report data, profitability, and cash-flow analysis of three retailers | Python, SQL, SQLite, Matplotlib |
-| [Exoplanet Light Curves and Transit Timing](https://github.com/daawiidq/Orbital-Analysis) | Astronomical time-series cleaning, periodic-signal searches, and transit fitting | Python, NumPy, Lightkurve, Astropy |
-| [Match Outcomes Analysis](https://github.com/daawiidq/lol-data-analysis) | Data validation, descriptive statistics, confidence intervals, and visualization | Python, pandas, Matplotlib |
+| [Retail Fundamentals Research](https://github.com/daawiidq/retail-fundamentals) | Annual-report data, profitability, free-cash-flow decomposition, and reproducible research | Python, SQL, SQLite, Matplotlib |
+| [Exoplanet Light Curves and Transit Timing](https://github.com/daawiidq/Orbital-Analysis) | Astronomical time-series cleaning, periodic-signal searches, phase folding, and transit fitting | Python, NumPy, Lightkurve, Astropy |
+| [League of Legends Match Outcomes Analysis](https://github.com/daawiidq/lol-data-analysis) | 51k+ match analysis, Wilson confidence intervals, objective associations, and visualization | Python, pandas, Matplotlib |
 
 ## Current interests
 
 - Probability and statistical modeling
-- Financial-statement analysis and sector research
-- Clear, reproducible data workflows
+- Quantitative finance and financial-statement analysis
+- Time-series and scientific data
+- Reproducible research workflows
 
-Programming experience includes Python and MATLAB. I am developing my SQL skills through the retail fundamentals project.
+## Tools
+
+Python · MATLAB · SQL · pandas · NumPy · SciPy · Matplotlib · Jupyter · Git/GitHub
+
+Currently studying probability and continuing to build projects that connect physics-style quantitative reasoning with data and finance.
