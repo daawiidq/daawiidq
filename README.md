@@ -6,6 +6,7 @@ UC San Diego physics undergraduate interested in probability, quantitative resea
 
 | Project | Focus | Tools |
 | --- | --- | --- |
+| [Sector Portfolio Risk Lab](https://github.com/daawiidq/retail-fundamentals/tree/main/sector-risk-lab) | Walk-forward allocation across 10 industries, trading costs, drawdowns, VaR, and block-bootstrap uncertainty | Python, NumPy, pandas, Matplotlib |
 | [Retail Fundamentals Research](https://github.com/daawiidq/retail-fundamentals) | Annual-report data, profitability, free-cash-flow decomposition, and reproducible research | Python, SQL, SQLite, Matplotlib |
 | [Exoplanet Light Curves and Transit Timing](https://github.com/daawiidq/Orbital-Analysis) | Astronomical time-series cleaning, periodic-signal searches, phase folding, and transit fitting | Python, NumPy, Lightkurve, Astropy |
 | [League of Legends Match Outcomes Analysis](https://github.com/daawiidq/lol-data-analysis) | 51k+ match analysis, Wilson confidence intervals, objective associations, and visualization | Python, pandas, Matplotlib |
